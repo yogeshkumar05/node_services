@@ -1,0 +1,22 @@
+{
+  "name": "node_services",
+  "version": "1.0.0",
+  "description": "sample apis using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogeshkumar05/node_services.git"
+  },
+  "author": "Yogesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogeshkumar05/node_services/issues"
+  },
+  "homepage": "https://github.com/yogeshkumar05/node_services#readme",
+  "dependencies": {
+    "hapi": "^16.6.2"
+  }
+}
